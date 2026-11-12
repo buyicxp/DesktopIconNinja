@@ -1,0 +1,15 @@
+# 编译产物
+*.exe
+*.pdb
+*.ilk
+
+# 运行时缓存 / 自检输出
+DesktopIconNinjaSfx/
+probe_report.txt
+shot_*.png
+preview_cards.png
+
+# 临时文件
+_timing.txt
+_*.png
+*.wav
